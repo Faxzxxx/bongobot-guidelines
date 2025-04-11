@@ -1,6 +1,6 @@
 # 📜 Privacy Policy
 
-**Effective Date:** April 5, 2025  
+**Effective Date:** April 4, 2025  
 **Bot Name:** BongoBot  
 **Developer:** BongoBot Teams
 
