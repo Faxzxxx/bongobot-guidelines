@@ -1,4 +1,4 @@
-# 📄 Terms of Service - BongoBot
+# 📄 Terms of Service - Turtlemind
 
 **Last updated:** April 7, 2025
 
@@ -38,4 +38,4 @@ If you have questions, concerns, or requests, feel free to reach out via our [Su
 
 ---
 
-© 2025 BongoBot Teams
+© 2025 TurtleMind Teams
