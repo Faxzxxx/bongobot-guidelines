@@ -1,8 +1,8 @@
 # 📜 Privacy Policy
 
 **Effective Date:** April 4, 2025  
-**Bot Name:** BongoBot  
-**Developer:** BongoBot Teams
+**Bot Name:** Turtlemind  
+**Developer:** TurtleMind Teams
 
 ## 1. Information We Collect
 - User IDs  
@@ -36,4 +36,4 @@ If you have questions or concerns about our Privacy Policy, feel free to reach o
 - Discord: @tanjivall  
 - **[Join Support Server](https://discord.gg/KjvpGs8DSA)**
 
-© 2025 BongoBot Teams
+© 2025 TurtleMind Teams
