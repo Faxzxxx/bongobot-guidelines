@@ -39,10 +39,11 @@ If you have questions, concerns, or requests, feel free to reach out via our [Su
 © 2025 TurtleMind Teams
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📜 Privacy Policy
-Effective Date: April 4, 2025
-Bot Name: Turtlemind
-Developer: TurtleMind Teams
+# 📜 Privacy Policy
+
+**Effective Date:** April 4, 2025  
+**Bot Name:** Turtlemind  
+**Developer:** TurtleMind Teams
 
 1. Information We Collect
 User IDs
