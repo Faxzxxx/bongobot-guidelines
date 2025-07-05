@@ -36,8 +36,6 @@ We reserve the right to update these Terms of Service at any time without notice
 ## 8. Contact
 If you have questions, concerns, or requests, feel free to reach out via our [Support Server](https://discord.gg/KjvpGs8DSA).
 
----
-
 © 2025 TurtleMind Teams
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -75,4 +73,5 @@ If you have questions or concerns about our Privacy Policy, feel free to reach o
 
 Discord: @tanjivall
 Join Support Server
+__________________________
 © 2025 TurtleMind Teams
