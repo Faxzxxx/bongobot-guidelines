@@ -71,7 +71,6 @@ To see more information, please contact us via our Support Server.
 6. Contact
 If you have questions or concerns about our Privacy Policy, feel free to reach out:
 
-Discord: @tanjivall
-Join Support Server
+[Support Server](https://discord.gg/KjvpGs8DSA).
 __________________________
 © 2025 TurtleMind Teams
